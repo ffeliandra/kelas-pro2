@@ -1,32 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-
-Sign in
-Sign up
-sandhikagalih
-/
-NGOBAR
-343225
- Code
- Issues 0
- Pull requests 4 Actions
- Projects 0
- Security 0
- Insights
-Join GitHub today
-GitHub is home to over 50 million developers working together to host and review code, manage projects, and build software together.
-
-NGOBAR/1. bootstrap-portfolio/index.html
-@sandhikagalih sandhikagalih Ngoding Bareng
-0c40bed on 20 May 2017
-Executable File  174 lines (152 sloc)  5.74 KB
-  
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -197,18 +168,3 @@ Executable File  174 lines (152 sloc)  5.74 KB
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
-
-
-
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
